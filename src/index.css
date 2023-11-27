@@ -5,6 +5,9 @@ code {
 h1 {
   color :blueviolet;
 }
+h2 {
+  color :rgb(226, 43, 43);
+}
 
 p{
   background-color:#ece8ee;

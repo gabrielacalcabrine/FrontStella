@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import BotaoLayout from './BotaoLayout';
 
 const Fundo = () => {
   const [corFundo, setCorFundo] = useState('white');
