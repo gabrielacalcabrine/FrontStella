@@ -14,6 +14,7 @@ function NumeroDaSorte() {
       {numeroSorte !== null && (
         <h1>{numeroSorte}</h1>
       )}
+      {/* Só renderiza numero da sorte se ele não for nulo */}
     </div>
   );
 };

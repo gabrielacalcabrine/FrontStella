@@ -1,6 +1,6 @@
 .botao-rosa {
     background-color: transparent;
-    border: 50px solid rgb(31, 16, 94);
+    border: 50px solid rgb(94, 16, 84);
     color: rgb(158, 105, 255);
     padding: 30px 60px;
     font-size: 16px;
@@ -9,6 +9,6 @@
   }
   
   .botao-rosa:hover {
-    background-color: rgb(148, 105, 255);
-    color: #ffffff;
+    background-color: rgb(135, 105, 255);
+    color: #F7819F;
   }
